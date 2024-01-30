@@ -1,0 +1,1 @@
+I have almost no experience with Git. I only used GitHub once for my application dev class but when I used it, it would be super confusing to me. 
